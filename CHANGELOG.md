@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/hugomods/lorem-ipsum-generator/compare/lorem-ipsum-generator-v0.2.0...lorem-ipsum-generator-v0.2.1) (2024-06-13)
+
+
+### Bug Fixes 🐞
+
+* update keywords ([8d95f12](https://github.com/hugomods/lorem-ipsum-generator/commit/8d95f12fd680752afd8d9527b7f052616f56621f))
+
 ## [0.2.0](https://github.com/hugomods/lorem-ipsum-generator/compare/lorem-ipsum-generator-v0.1.1...lorem-ipsum-generator-v0.2.0) (2024-06-13)
 
 

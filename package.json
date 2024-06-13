@@ -1,6 +1,6 @@
 {
   "name": "@hugomods/lorem-ipsum-generator",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hugomods/lorem-ipsum-generator.git"
@@ -10,7 +10,13 @@
   "bugs": {
     "url": "https://github.com/hugomods/lorem-ipsum-generator/issues"
   },
-  "keywords": ["hugo", "lorem", "ipsum", "dummy", "markdown"],
+  "keywords": [
+    "hugo",
+    "lorem",
+    "ipsum",
+    "dummy",
+    "markdown"
+  ],
   "homepage": "https://github.com/hugomods/lorem-ipsum-generator",
   "devDependencies": {
     "@hugomods/prettier-config": "^0.1.0",
