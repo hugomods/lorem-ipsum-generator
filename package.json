@@ -1,6 +1,6 @@
 {
   "name": "@hugomods/lorem-ipsum-generator",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hugomods/lorem-ipsum-content-generator.git"
