@@ -36,5 +36,6 @@
     "lorem-ipsum": "^2.0.8",
     "mustache": "^4.2.0",
     "randomstring": "^1.3.0"
-  }
+  },
+  "version": "0.1.0"
 }
