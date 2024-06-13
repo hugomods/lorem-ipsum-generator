@@ -13,14 +13,14 @@
 * correct binary name ([1a20eb3](https://github.com/hugomods/lorem-ipsum-generator/commit/1a20eb38b886842c3ed0eb4bf03fcdec12068888))
 * correct package name ([d093043](https://github.com/hugomods/lorem-ipsum-generator/commit/d0930433f712fdd1cac38c12b7400a806bd46dfc))
 
-## [0.1.1](https://github.com/hugomods/lorem-ipsum-generator/compare/lorem-ipsum-content-generator-v0.1.0...lorem-ipsum-content-generator-v0.1.1) (2024-06-13)
+## [0.1.1](https://github.com/hugomods/lorem-ipsum-generator/compare/lorem-ipsum-generator-v0.1.0...lorem-ipsum-generator-v0.1.1) (2024-06-13)
 
 
 ### Bug Fixes 🐞
 
 * correct binary name ([1a20eb3](https://github.com/hugomods/lorem-ipsum-generator/commit/1a20eb38b886842c3ed0eb4bf03fcdec12068888))
 
-## [0.1.0](https://github.com/hugomods/lorem-ipsum-generator/compare/lorem-ipsum-content-generator-v0.0.1...lorem-ipsum-content-generator-v0.1.0) (2024-06-13)
+## [0.1.0](https://github.com/hugomods/lorem-ipsum-generator/compare/lorem-ipsum-generator-v0.0.1...lorem-ipsum-generator-v0.1.0) (2024-06-13)
 
 
 ### Features ✨

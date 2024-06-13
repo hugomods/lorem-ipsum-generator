@@ -43,7 +43,7 @@ const lorem = new LoremIpsum({
 })
 
 program
-  .name('lorem-ipsum-content-generator')
+  .name('lorem-ipsum-generator')
   .requiredOption('-n, --number <number>', 'number of content', parseInt)
   .option('--paginate <number>', 'how many content per folder', parseInt, 1000)
   .option('-o, --output <char>', 'output folder', 'content')
