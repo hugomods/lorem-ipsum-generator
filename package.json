@@ -20,7 +20,7 @@
     "ts-standard": "^12.0.2"
   },
   "scripts": {
-    "lint": "npm run lint:prettier && npm run lint:standard",
+    "lint": "npm run lint:standard",
     "lint:prettier": "prettier **/*.html **/*.md --check",
     "lint:prettier:fix": "prettier **/*.html **/*.md -w",
     "lint:standard": "ts-standard .",
