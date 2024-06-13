@@ -30,7 +30,7 @@
   },
   "prettier": "@hugomods/prettier-config",
   "bin": {
-    "lorem-ipsum-content-generator": "index.js"
+    "lorem-ipsum-generator": "index.js"
   },
   "dependencies": {
     "commander": "^12.1.0",
