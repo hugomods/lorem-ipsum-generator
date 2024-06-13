@@ -10,6 +10,7 @@
   "bugs": {
     "url": "https://github.com/hugomods/lorem-ipsum-generator/issues"
   },
+  "keywords": ["hugo", "lorem", "ipsum", "dummy", "markdown"],
   "homepage": "https://github.com/hugomods/lorem-ipsum-generator",
   "devDependencies": {
     "@hugomods/prettier-config": "^0.1.0",
