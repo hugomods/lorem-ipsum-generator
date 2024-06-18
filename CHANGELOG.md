@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/hugomods/lorem-ipsum-generator/compare/lorem-ipsum-generator-v0.2.1...lorem-ipsum-generator-v0.2.2) (2024-06-18)
+
+
+### Bug Fixes 🐞
+
+* correct flag numbers parsing ([167a0bb](https://github.com/hugomods/lorem-ipsum-generator/commit/167a0bb6faa0459a27dd86f8e6eaf3f8de76f6fd))
+
 ## [0.2.1](https://github.com/hugomods/lorem-ipsum-generator/compare/lorem-ipsum-generator-v0.2.0...lorem-ipsum-generator-v0.2.1) (2024-06-13)
 
 
