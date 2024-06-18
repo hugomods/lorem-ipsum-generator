@@ -44,12 +44,12 @@ const lorem = new LoremIpsum({
 
 program
   .name('lorem-ipsum-generator')
-  .requiredOption('-n, --number <number>', 'number of content', parseInt)
-  .option('--paginate <number>', 'how many content per folder', parseInt, 1000)
+  .requiredOption('-n, --number <number>', 'number of content', parseFloat)
+  .option('--paginate <number>', 'how many content per folder', parseFloat, 1000)
   .option('-o, --output <char>', 'output folder', 'content')
-  .option('--tag-count <number>', '', parseInt, 5)
-  .option('--category-count <number>', '', parseInt, 3)
-  .option('--series-count <number>', '', parseInt, 1)
+  .option('--tag-count <number>', '', parseFloat, 5)
+  .option('--category-count <number>', '', parseFloat, 3)
+  .option('--series-count <number>', '', parseFloat, 1)
 
 program.parse()
 
