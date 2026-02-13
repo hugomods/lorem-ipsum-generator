@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.2.3](https://github.com/hugomods/lorem-ipsum-generator/compare/lorem-ipsum-generator-v0.2.2...lorem-ipsum-generator-v0.2.3) (2026-02-13)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency commander to v13 ([da1e9b1](https://github.com/hugomods/lorem-ipsum-generator/commit/da1e9b1df689f5e09a2f5ac7609d7b596cdfd83b))
+* **deps:** update dependency commander to v13.1.0 ([9b5617d](https://github.com/hugomods/lorem-ipsum-generator/commit/9b5617d1c304dad9742a6e2c4c4c598d3d6befd3))
+* **deps:** update dependency commander to v14 ([32a300a](https://github.com/hugomods/lorem-ipsum-generator/commit/32a300a904380c5708bbae2e1e05a098a7be57b8))
+* **deps:** update dependency commander to v14.0.1 ([e68698e](https://github.com/hugomods/lorem-ipsum-generator/commit/e68698e9e5a7c778f6e3317e2d726ee56c39d5ce))
+* **deps:** update dependency randomstring to v1.3.1 ([781f537](https://github.com/hugomods/lorem-ipsum-generator/commit/781f5376b14a029fd8d814fd7825c1c5335b52da))
+
 ## [0.2.2](https://github.com/hugomods/lorem-ipsum-generator/compare/lorem-ipsum-generator-v0.2.1...lorem-ipsum-generator-v0.2.2) (2024-06-18)
 
 
